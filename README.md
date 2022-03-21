@@ -11,4 +11,4 @@
 - React native <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" width="25">
 
 ### Add me to Linkedin
-<a href="https://www.linkedin.com/in/jean-baptiste-castillo-frontend-developer/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"></a>
+<a href="https://www.linkedin.com/in/jean-baptiste-castillo-frontend-developer/" alt="My Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"></a>
