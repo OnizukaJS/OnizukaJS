@@ -5,37 +5,8 @@ I'm a 30 years old developer based in Barcelona with 2 years of experience in Re
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning
   Languages and Tools:
-Visual Studio Code
+![image](https://user-images.githubusercontent.com/65075399/159305415-5dec04c0-dccd-4a1e-8ec0-83e19596f6e5.png)
 
-ASP.NET
-
-C#
-
-.net
-
-HTML5
-
-CSS3
-
-JavaScript
-
-TypeScript
-
-React
-
-Docker
-
-Node.js
-
-SQL
-
-MongoDB
-
-Git
-
-GitHub
-
-Terminal
 
 
 - 👯 I’m looking to collaborate on ...
