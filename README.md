@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I'm a 31 years old developer based in Barcelona with 2 years of experience in:
+👨‍💻 I'm a 31 years old developer based in Barcelona with more than 2 years of experience in:
 - React.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="25">
 - C# <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="25">
 - .NET core <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="25">
