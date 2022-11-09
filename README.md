@@ -5,6 +5,8 @@
 - C# <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="25">
 - .NET core <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="25">
 - SQL <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="25">
+- Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="30">
+- MongoDB <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="60">
 - etc...
 
 ### 📖 I’m currently learning
